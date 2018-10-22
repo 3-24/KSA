@@ -1,5 +1,3 @@
-[TOC]
-
 <div style="page-break-after: always;"></div>
 
 > Python is **Interpreter language**!
