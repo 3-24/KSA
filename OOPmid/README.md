@@ -6,11 +6,11 @@ Python 2와 다르게, int / int 는 자료형이 float이다.
 
 Error 종류
 
-* Syntax error: Python cannot understand your program, and refuses to execute it.
-* Runtime error: When executing your program (at runtime), your program suddenly terminates with an error message.
-* Semantic error: Your program runs without error messages but does not do what it is supposed to do.
+- Syntax error: Python cannot understand your program, and refuses to execute it.
+- Runtime error: When executing your program (at runtime), your program suddenly terminates with an error message.
+- Semantic error: Your program runs without error messages but does not do what it is supposed to do.
 
-print 함수
+# 1. Print
 
 ```
 print(...)
@@ -23,7 +23,7 @@ print(...)
 
 
 
-# 1. Exceptions
+# 2. Exceptions
 
 Python이 처리할 수 없는 부분을 만나면 exception을 raise한다. exception 종류는 아주 많으니까 여기서는 다루지 않는다.
 
